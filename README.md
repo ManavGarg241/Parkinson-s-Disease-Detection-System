@@ -69,24 +69,6 @@ Parkinson-s-Disease-Classifier/
 
 ---
 
-## ⚙️ Installation & Setup
-
-### Clone the repository
-git clone https://github.com/your-username/Parkinson-s-Disease-Classifier.git
-cd Parkinson-s-Disease-Classifier
-
-### Install dependencies
-pip install -r backend/requirements.txt
-
-### Run the backend server
-uvicorn backend.main:app --reload
-
-### Access the application
-- API Documentation: http://127.0.0.1:8000/docs
-- Frontend: Open frontend/index.html in browser
-
----
-
 ## 🔐 Authentication
 
 - OAuth2 with JWT tokens
